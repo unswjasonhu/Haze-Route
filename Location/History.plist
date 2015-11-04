@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>origin</key>
+	<array>
+		<string>Coogee</string>
+		<string>Alexandria</string>
+		<string>Todman</string>
+		<string>Kensington</string>
+		<string>Kingsford</string>
+		<string>North Sydney</string>
+		<string>Maroubra</string>
+		<string>Randwick</string>
+		<string>UNSW</string>
+		<string>Bondi</string>
+	</array>
+	<key>destination</key>
+	<array>
+		<string>Newcastle</string>
+		<string>Three Sisters</string>
+		<string>Parramatta</string>
+		<string>Canberra</string>
+		<string>Campbelltown</string>
+		<string>Leumeah</string>
+		<string>Penrith</string>
+		<string>Ryde</string>
+		<string>Western Sydney</string>
+		<string>Hobart</string>
+	</array>
+</dict>
+</plist>
